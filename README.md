@@ -30,7 +30,7 @@ Welcome to the **Roblox Username Checker**, a simple and efficient tool designed
 
 ## Example Image 📷
 
-[Roblox Username Checker](https://raw.githubusercontent.com/zentir0g/roblox-username-checker/refs/heads/main/pics/showcase.gif)
+![Roblox Username Checker](https://raw.githubusercontent.com/zentir0g/roblox-username-checker/refs/heads/main/pics/showcase.gif)
 
 ## Community Support 👥
 
