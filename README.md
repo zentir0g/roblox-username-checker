@@ -32,6 +32,10 @@ Welcome to the **Roblox Username Checker**, a simple and efficient tool designed
 
 ![Roblox Username Checker](https://raw.githubusercontent.com/zentir0g/roblox-username-checker/refs/heads/main/pics/roblox%20username%20checker.gif)
 
+## Video Guide
+
+![YouTube Video](https://www.youtube.com/watch?v=hhURaIrs7Vg)
+
 ## Community Support 👥
 
 Join our community for updates, support, and discussions: [Discord Community](https://discord.gg/W6JfvA4y66).
