@@ -28,7 +28,7 @@ Welcome to the **Roblox Username Checker**, a simple and efficient tool designed
    - All available usernames will be saved in the `valid.txt` file.
    - If a Discord webhook was provided, you will receive notifications for available usernames.
 
-## Example Image 📷
+## Showcase Video 📷
 
 ![Roblox Username Checker](https://raw.githubusercontent.com/zentir0g/roblox-username-checker/refs/heads/main/pics/showcase.gif)
 
